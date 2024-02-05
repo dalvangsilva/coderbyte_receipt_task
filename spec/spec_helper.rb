@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "coderbyte_receipt_task"
+require "coderbyte/receipt"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

@@ -1,0 +1,8 @@
+module Coderbyte
+  VERSION: String
+
+  class Receipt
+    TAX_RATE_IMPORTED: Fixnum
+    TAX_RATE_NOT_EXEMPT: Fixnum
+  end
+end

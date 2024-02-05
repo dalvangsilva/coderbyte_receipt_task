@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/coderbyte_receipt_task/version"
+require_relative "lib/coderbyte/version"
 
 Gem::Specification.new do |spec|
   spec.name = "coderbyte_receipt_task"
-  spec.version = CoderbyteReceiptTask::VERSION
+  spec.version = Coderbyte::VERSION
   spec.authors = ["Dalvan Gomes"]
   spec.email = ["dalvangsilva@torc.com"]
 
